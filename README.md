@@ -1,2 +1,6 @@
 # VISTA_reproduce
-The codes used to reproduce the results in paper: VISTA Uncovers Missing Gene Expression and Spatial-induced Information for Spatial Transcriptomic Data Analysis
+The codes used to reproduce the results in paper: VISTA Uncovers Missing Gene Expression and Spatial-induced Information for Spatial Transcriptomic Data Analysis. 
+
+To reproduce the results in the main figure, please refer the codes and results listed in each folder.
+
+To reproduce the results in supplementary files, please refer the folder **supp**.
